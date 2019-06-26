@@ -1,0 +1,310 @@
+
+xantham	"a gum produced by the culture fermentation of glucose, used as a stabilizer, also xanthan [n -s]"
+xanthams	"xantham, a gum produced by the culture fermentation of glucose, used as a stabilizer, also xanthan [n]"
+xanthan	"a gum produced by culture fermentation of glucose, used as a stabilizer, also xantham [n -s]"
+xanthans	"xanthan, a gum produced by culture fermentation of glucose, used as a stabilizer, also xantham [n]"
+xanthate	a salt of xanthic acid [n -s]
+xanthates	"xanthate, a salt of xanthic acid [n]"
+xanthation	"the formation of a xanthate, a salt of xanthic acid [n -s]"
+xanthations	"xanthation, the formation of a xanthate, a salt of xanthic acid [n]"
+xanthein	a soluble yellow colouring [n -s]
+xantheins	"xanthein, a soluble yellow colouring [n]"
+xanthene	"a white crystalline compound of carbon, hydrogen and oxygen, from which dyestuffs are derived [n -s]"
+xanthenes	"xanthene, a white crystalline compound of carbon, hydrogen and oxygen, from which dyestuffs are derived [n]"
+xanthic	having a yellow tint [adj]
+xanthin	"a white substance, structurally related to uric acid, found in muscle tissue, the liver and other organs, also xanthine [n -s]"
+xanthine	"a white substance, structurally related to uric acid, found in muscle tissue, the liver and other organs, also xanthin [n -s]"
+xanthines	"xanthine, a white substance, structurally related to uric acid, found in muscle tissue, the liver and other organs, also xanthin [n]"
+xanthins	"xanthin, a white substance, structurally related to uric acid, found in muscle tissue, the liver and other organs, also xanthine [n]"
+xanthism	"a condition of skin, fur or feathers in which yellow coloration predominates [n -s]"
+xanthisms	"xanthism, a condition of skin, fur or feathers in which yellow coloration predominates [n]"
+xanthochroia	yellowness of the skin [n -s]
+xanthochroias	"xanthochroia, yellowness of the skin [n]"
+xanthochroic	"exhibiting xanthochroism, a condition in which all pigments other than yellow disappear, also xanthochroous [adj]"
+xanthochroid	a blond-haired and blue eyed person with fair white skin [n -s]
+xanthochroids	"xanthochroid, a blond-haired and blue eyed person with fair white skin [n]"
+xanthochroism	a condition in which all skin pigments except yellow disappear [n -s]
+xanthochroisms	"xanthochroism, a condition in which all skin pigments except yellow disappear [n]"
+xanthochromia	"any yellowish discoloration, esp. of the cerebrospinal fluid [n -s]"
+xanthochromias	"xanthochromia, any yellowish discoloration, esp. of the cerebrospinal fluid [n]"
+xanthochroous	"exhibiting xanthochroism, a condition in which all pigments other than yellow disappear, also xanthochroic [adj]"
+xanthoma	"a skin disease marked by the development of irregular yellowish patches upon the skin, esp. upon the eyelids [n xanthomas or xanthomata]"
+xanthomas	"xanthoma, a skin disease marked by the development of irregular yellowish patches upon the skin, esp. upon the eyelids [n]"
+xanthomata	"xanthoma, a skin disease marked by the development of irregular yellowish patches upon the skin, esp. upon the eyelids [n]"
+xanthomatous	"of or like a xanthoma, a skin disease marked by the development or irregular yellowish patches upon the skin [adj]"
+xanthomelanous	applied by huxley to members of the human race with black hair and yellow or olive skins [adj]
+xanthone	a ketone analogue of xanthene which forms the basis of various natural pigments [n -s]
+xanthones	"xanthone, a ketone analogue of xanthene which forms the basis of various natural pigments [n]"
+xanthophyl	"a yellow caretenoid pigment found with chlorophyll in green plants and in egg yolks, also xanthophyll [n -s]"
+xanthophyll	"a yellow caretenoid pigment found with chlorophyll in green plants and in egg yolks, also xanthophyl [n -s]"
+xanthophyllous	"like a xanthophyll, a yellow caretenoid pigment found with chlorophyll in green plants and in egg yolks [adj]"
+xanthophylls	"xanthophyll, a yellow caretenoid pigment found with chlorophyll in green plants and in egg yolks, also xanthophyl [n]"
+xanthophyls	"xanthophyl, a yellow caretenoid pigment found with chlorophyll in green plants and in egg yolks, also xanthophyll [n]"
+xanthopsia	a visual condition where things appear yellow [n -s]
+xanthopsias	"xanthopsia, a visual condition where things appear yellow [n]"
+xanthopterin	"a yellow pigment obtainable from the wings of yellow butterflies and the urine of mammals, also xanthopterine [n -s]"
+xanthopterine	"a yellow pigment obtainable from the wings of yellow butterflies and the urine of mammals, also xanthopterin [n -s]"
+xanthopterines	"xanthopterine, a yellow pigment obtainable from the wings of yellow butterflies and the urine of mammals, also xanthopterin [n]"
+xanthopterins	"xanthopterin, a yellow pigment obtainable from the wings of yellow butterflies and the urine of mammals, also xanthopterine [n]"
+xanthous	yellow- or red-haired; yellow-skinned [adj]
+xanthoxyl	"a plant of a genus of the rue family found in brazil, in particular the prickly-ash or hercules club, also zanthoxyl, zanthoxylum [n -s]"
+xanthoxyls	"xanthoxyl, a plant of a genus of the rue family found in brazil, in particular the prickly-ash or hercules club, also zanthoxyl, zanthoxylum [n]"
+xebec	"a small, three-masted mediterranean vessel with both square and triangular sails, also zebec, zebeck [n -s]"
+xebecs	"xebec, a small, three-masted mediterranean vessel with both square and triangular sails, also zebec, zebeck [n]"
+xed	crossed out (past tense of verb to x) [v]
+xenarthral	"having additional facets on the dorsolumbar vertebrae, like sloths, anteaters and armadillos [adj]"
+xenia	the effect on a hybrid strain produced by transferring pollen from one strain to the seed of another strain [n -s]
+xenial	of or concerning hospitality towards guests [adj]
+xenias	"xenia, the effect on a hybrid strain produced by transferring pollen from one strain to the seed of another strain [n]"
+xenic	"of a culture medium, growing with unknown other microbiota [adj]"
+xenium	a gift made to a guest or ambassador; any compulsory gift [n xenia]
+xenobiotic	denoting or relating to a substance foreign to or not rightly found in a body [adj] / a xenobiotic substance or item [n -s]
+xenobiotics	"xenobiotic, a xenobiotic substance or item [n]"
+xenoblast	a type of mineral deposit [n -s]
+xenoblasts	"xenoblast, a type of mineral deposit [n]"
+xenocryst	a crystal or mineral grain which has been taken in by magma during its upward flow [n -s]
+xenocrysts	"xenocryst, a crystal or mineral grain which has been taken in by magma during its upward flow [n]"
+xenodiagnoses	"xenodiagnosis, the detection of a parasite (as of humans) by feeding a suitable intermediate host (as an insect) on supposedly infected material (as blood) and later examining the host for the parasite [n]"
+xenodiagnosis	the detection of a parasite (as of humans) by feeding a suitable intermediate host (as an insect) on supposedly infected material (as blood) and later examining the host for the parasite [n xenodiagnoses]
+xenodiagnostic	relating to xenodiagnosis [adj]
+xenodochium	"a building for the reception of strangers, e.g. a guesthouse in a monastery [n -s]"
+xenodochiums	"xenodochium, a building for the reception of strangers, e.g. a guesthouse in a monastery [n]"
+xenogamies	"xenogamy, cross-fertilization [n]"
+xenogamous	"relating to xenogamy, cross-fertilization [adj]"
+xenogamy	cross-fertilization [n xenogamies]
+xenogeneic	descended from a member of another species [adj]
+xenogeneses	"xenogenesis, the supposed production of offspring totally different from the parents, also xenogeny [n]"
+xenogenesis	"the supposed production of offspring totally different from the parents, also xenogeny [n xenogeneses]"
+xenogenetic	"relating to xenogeny, the supposed production of offspring totally different from the parents, also xenogenic [adj]"
+xenogenic	"relating to xenogeny, the supposed production of offspring totally different from the parents, also xenogenetic [adj]"
+xenogenies	"xenogeny, the production of offspring totally different from the parent [n]"
+xenogenous	due to an outside cause [adj]
+xenogeny	the production of offspring totally different from the parent [n xenogenies]
+xenoglossia	"a person's knowledge of a language never studied, also xenoglossy [n -s]"
+xenoglossias	"xenoglossia, a person's knowledge of a language never studied, also xenoglossy [n]"
+xenoglossies	"xenoglossy, a person's knowledge of a language never studied, also xenoglossia [n]"
+xenoglossy	"a person's knowledge of a language never studied, also xenoglossia [n xenoglossies]"
+xenograft	a graft of tissue between individuals of different species [n -s]
+xenografts	"xenograft, a graft of tissue between individuals of different species [n]"
+xenolith	a rock fragment foreign to the igneous mass in which it occurs [n -s]
+xenolithic	"of or like a xenolith, a rock fragment foreign to the igneous mass in which it occurs [adj]"
+xenoliths	"xenolith, a rock fragment foreign to the igneous mass in which it occurs [n]"
+xenomania	an inordinate attachment to foreign things [n -s]
+xenomanias	"xenomania, an inordinate attachment to foreign things [n]"
+xenomenia	menstruation from abnormal orifices [n -s]
+xenomenias	"xenomenia, menstruation from abnormal orifices [n]"
+xenomorphic	having a form not its own [adj xenomorphically]
+xenomorphically	"xenomorphic, having a form not its own [adv]"
+xenon	a heavy inert gas [n -s]
+xenons	"xenon, a heavy inert gas [n]"
+xenophile	one who loves foreigners [n -s]
+xenophiles	"xenophile, one who loves foreigners [n]"
+xenophobe	one who hates foreigners [n -s]
+xenophobes	"xenophobe, one who hates foreigners [n]"
+xenophobia	"fear of foreigners, also xenophoby [n -s]"
+xenophobias	"xenophobia, fear of foreigners, also xenophoby [n]"
+xenophobic	being afraid of foreigners [adj xenophobically]
+xenophobically	"xenophobic, being afraid of foreigners [adv]"
+xenophobies	"xenophoby, fear of foreigners, also xenophobia [n]"
+xenophoby	"fear of foreigners, also xenophobia [n xenophobies]"
+xenophya	(greek) elements of a shell or skeleton not secreted by the organism itself [n]
+xenoplastic	involving or occurring between distantly related individuals [adj]
+xenopus	a frog native to southern africa [n -es]
+xenopuses	"xenopus, a frog native to southern africa [n]"
+xenotime	a phosphate of yttrium occurring in yellowish-brown tetragonal crystals [n -s]
+xenotimes	"xenotime, a phosphate of yttrium occurring in yellowish-brown tetragonal crystals [n]"
+xenotransplant	an operation in which an organ or tissue is transferred from one animal to another of a different species [n -s]
+xenotransplants	"xenotransplant, an operation in which an organ or tissue is transferred from one animal to another of a different species [n]"
+xenotropic	reproducing or replicating only in cells other than those of the host species [adj]
+xenurine	any armadillo of the genus xenurus [n -s]
+xenurines	"xenurine, any armadillo of the genus xenurus [n]"
+xerafin	"(portuguese) a former silver coin of goa, also serafin, seraphin, xeraphin [n -s]"
+xerafins	"xerafin, (portuguese) a former silver coin of goa, also serafin, seraphin, xeraphin [n]"
+xeranses	"xeransis, a drying up [n]"
+xeransis	a drying up [n xeranses]
+xeranthemum	"any plant of the xeranthemum genus of plants of southern europe, belonging to the thistle family [n -s]"
+xeranthemums	"xeranthemum, any plant of the xeranthemum genus of plants of southern europe, belonging to the thistle family [n]"
+xerantic	"relating to xeransis, a drying up [adj]"
+xeraphin	"(portuguese) a former silver coin of goa, also serafin, seraphin, xerafin [n -s]"
+xeraphins	"xeraphin, (portuguese) a former silver coin of goa, also serafin, seraphin, xerafin [n]"
+xerarch	developing in a dry area [adj]
+xerasia	abnormal dryness of the hair [n -s]
+xerasias	"xerasia, abnormal dryness of the hair [n]"
+xeric	requiring only a small amount of moisture [adj xerically]
+xerically	"xeric, requiring only a small amount of moisture [adv]"
+xeriscape	"(tradename) to landscape (an arid place) in a way that conserves by using plants that require little water [v xeriscaped, xeriscaping, xeriscapes]"
+xeriscaped	"xeriscape, (tradename) to landscape (an arid place) in a way that conserves by using plants that require little water [v]"
+xeriscapes	xeriscape [n]
+xeriscaping	"xeriscape, (tradename) to landscape (an arid place) in a way that conserves by using plants that require little water [v]"
+xerochasies	"xerochasy, dehiscence on drying [n]"
+xerochasy	dehiscence on drying [n xerochasies]
+xeroderma	"morbid dryness of skin, ichythosis, also xerodermia [n xerodermas or xerodermae]"
+xerodermae	"xeroderma, morbid dryness of skin, ichythosis, also xerodermia [n]"
+xerodermas	"xeroderma, morbid dryness of skin, ichythosis, also xerodermia [n]"
+xerodermatic	"relating to xeroderma, dryness of skin [adj]"
+xerodermatous	"suffering from xeroderma, morbid dryness of skin [adj]"
+xerodermia	"morbid dryness of skin, ichythosis, also xeroderma [n -s]"
+xerodermias	"xerodermia, morbid dryness of skin, ichythosis, also xeroderma [n]"
+xerodermic	dry-skinned [adj]
+xerographer	one who practises xerography [n -s]
+xerographers	"xerographer, one who practises xerography [n]"
+xerographic	relating to xerography [adj xerographically]
+xerographically	"xerographic, relating to xerography [adv]"
+xerographies	"xerography, a nonchemical photographic process in which the plate is sensitized electrically and developed by dusting with electrically-charged fine powder [n]"
+xerography	a nonchemical photographic process in which the plate is sensitized electrically and developed by dusting with electrically-charged fine powder [n xerographies]
+xeroma	"a dry lustreless condition of the conjunctiva, also xerophthalmia [n xeromas or xeromata]"
+xeromas	"xeroma, a dry lustreless condition of the conjunctiva, also xerophthalmia [n]"
+xeromata	"xeroma, a dry lustreless condition of the conjunctiva, also xerophthalmia [n]"
+xeromorph	"a plant thriving in desert conditions, a xerophyte [n -s]"
+xeromorphic	"of parts of a plant, protected against excessive loss of water by thick cuticles, coatings of hairs and similar structural features, also xeromorphous [adj]"
+xeromorphous	"of parts of a plant, protected against excessive loss of water by thick cuticles, coatings of hairs and similar structural features, also xeromorphic [adj]"
+xeromorphs	"xeromorph, a plant thriving in desert conditions, a xerophyte [n]"
+xerophagies	"xerophagy, the eating of dry food, esp. food cooked without oil [n]"
+xerophagy	"the eating of dry food, esp. food cooked without oil [n xerophagies]"
+xerophile	a plant adapted to dry conditions [n -s]
+xerophiles	"xerophile, a plant adapted to dry conditions [n]"
+xerophilies	"xerophily, adaptation to very dry conditions [n]"
+xerophilous	"drought loving, particularly pertaining to plants [adj]"
+xerophily	adaptation to very dry conditions [n xerophilies]
+xerophthalmia	"extreme dryness of the conjunctive, thought to stem from a vitamin a deficiency, also xeroma [n -s]"
+xerophthalmias	"xerophthalmia, extreme dryness of the conjunctive, thought to stem from a vitamin a deficiency, also xeroma [n]"
+xerophthalmic	relating to xerophthalmia [adj]
+xerophyte	a plant thriving in desert conditions [n -s]
+xerophytes	"xerophyte, a plant thriving in desert conditions [n]"
+xerophytic	able to withstand drought [adj xerophytically]
+xerophytically	"xerophytic, able to withstand drought [adv]"
+xerophytism	being a xerophyte [n -s]
+xerophytisms	"xerophytism, being a xerophyte [n]"
+xeroradiography	radiography used esp. in mammographic screening for breast cancer that produces an image using x-rays in a manner similar to the way an image is produced by light in xerography [n]
+xerosere	a sequence of ecological communities beginning in a dry area [n -s]
+xeroseres	"xerosere, a sequence of ecological communities beginning in a dry area [n]"
+xeroses	"xerosis, abnormal dryness of body parts, also xerotes [n]"
+xerosis	"abnormal dryness of body parts, also xerotes [n xeroses]"
+xerostoma	"excessive dryness of the mouth due to insufficient secretions, also xerostomia [n xerostomas or xerostomata]"
+xerostomas	"xerostoma, excessive dryness of the mouth due to insufficient secretions, also xerostomia [n]"
+xerostomata	"xerostoma, excessive dryness of the mouth due to insufficient secretions, also xerostomia [n]"
+xerostomia	"excessive dryness of the mouth due to insufficient secretions, also xerostoma [n -s]"
+xerostomias	"xerostomia, excessive dryness of the mouth due to insufficient secretions, also xerostoma [n]"
+xerotes	"abnormal dryness of body parts, also xerosis [n xerotes]"
+xerothermic	"of a region or climate, both dry and hot; of an animal or plant, living in a xerothermic environment [adj]"
+xerotic	of abnormally dry body tissues [adj]
+xerotripses	"xerotripsis, dry friction [n]"
+xerotripsis	dry friction [n xerotripses]
+xerox	"to produce by a xerox copying machine [v -ed, -ing, -es]"
+xeroxed	"xerox, to produce by a xerox copying machine [v]"
+xeroxes	"xerox, to produce by a xerox copying machine [v]"
+xeroxing	"xerox, to produce by a xerox copying machine [v]"
+xerus	an african ground squirrel [n -es]
+xeruses	"xerus, an african ground squirrel [n]"
+xi	the fourteenth letter of the greek alphabet [n -s]
+xiphihumeralis	"in vertebrates, a muscle leading from the xiphoid cartilage to the humerus [n]"
+xiphiplastra	"xiphiplastron, in chelonians, one of the plates forming the plastron, lying posterior to the hypoplastron [n]"
+xiphiplastral	a type of chelonian [n -s]
+xiphiplastrals	"xiphiplastral, a type of chelonian [n]"
+xiphiplastron	"in chelonians, one of the plates forming the plastron, lying posterior to the hypoplastron [n xiphiplastra]"
+xiphisterna	"xiphisternum, the posterior and smallest of the three divisions of the sternum [n]"
+xiphisternum	the posterior and smallest of the three divisions of the sternum [n xiphisterna or xiphisternums]
+xiphisternums	"xiphisternum, the posterior and smallest of the three divisions of the sternum [n]"
+xiphoid	"swordlike, also xiphoidal [adj] / the xiphoid process or xiphisternum [n -s]"
+xiphoidal	"swordlike, also xiphoid [adj]"
+xiphoids	"xiphoid, the xiphoid process or xiphisternum [n]"
+xiphopagi	"xiphopagus, a set of siamese twins joined in the region of the xiphoid cartilage [n]"
+xiphopagic	relating to a xiphopagus [adj]
+xiphopagous	"like a xiphopagus, a set of siamese twins joined in the region of the xiphoid cartilage [adj]"
+xiphopagus	a set of siamese twins joined in the region of the xiphoid cartilage [n xiphopagi or xiphopaguses]
+xiphopaguses	"xiphopagus, a set of siamese twins joined in the region of the xiphoid cartilage [n]"
+xiphophyllous	having sword-shaped leaves [adj]
+xiphosuran	"belonging to the xiphosura, an order of arthropoda of which the only survivors are the king crabs [adj] / a member of the xiphosura [n -s]"
+xiphosurans	"xiphosuran, a member of the xiphosura [n]"
+xis	"xi, the fourteenth letter of the greek alphabet [n]"
+xoana	"xoanon, a primitive statue [n]"
+xoanon	a primitive statue [n xoana]
+xray	(in international radio communication) a code word for the letter x [n -s]
+xrays	"xray, (in international radio communication) a code word for the letter x [n]"
+xu	"the currency of vietnam, also sau [n xu]"
+xylan	a substance found in cell walls of plants [n -s]
+xylans	"xylan, a substance found in cell walls of plants [n]"
+xylem	"a woody tissue in trees or plants, also xylogen [n -s]"
+xylems	"xylem, a woody tissue in trees or plants, also xylogen [n]"
+xylene	"a flammable hydrocarbon, also xylol [n -s]"
+xylenes	"xylene, a flammable hydrocarbon, also xylol [n]"
+xylenol	a synthetic resin derived from xylene [n -s]
+xylenols	"xylenol, a synthetic resin derived from xylene [n]"
+xylic	relating to xylem [adj]
+xylidin	"any one of six metameric hydrocarbons related to xylene, also xylidine [n -s]"
+xylidine	"any one of six metameric hydrocarbons related to xylene, also xylidin [n -s]"
+xylidines	"xylidine, any one of six metameric hydrocarbons related to xylene, also xylidin [n]"
+xylidins	"xylidin, any one of six metameric hydrocarbons related to xylene, also xylidine [n]"
+xylitol	a sweet crystalline alcohol obtained from xylose [n -s]
+xylitols	"xylitol, a sweet crystalline alcohol obtained from xylose [n]"
+xylobalsamum	"the dried twigs, or the wood, of the balm of gilead tree [n -s]"
+xylobalsamums	"xylobalsamum, the dried twigs, or the wood, of the balm of gilead tree [n]"
+xylocarp	a hard woody fruit [n -s]
+xylocarpous	having woody fruit [adj]
+xylocarps	"xylocarp, a hard woody fruit [n]"
+xylochrome	a mixture of substances to which the colour of heartwood is due [n -s]
+xylochromes	"xylochrome, a mixture of substances to which the colour of heartwood is due [n]"
+xylogen	"a woody tissue in trees or plants, also xylem [n -s]"
+xylogenous	growing on wood [adj]
+xylogens	"xylogen, a woody tissue in trees or plants, also xylem [n]"
+xylograph	"an engraving on wood, or the impression from such an engraving; a print by xylography [n -s] / to copy by xylograph [v -ed, -ing, -s]"
+xylographed	"xylograph, to copy by xylograph [v]"
+xylographer	"one who practises xylography, the art of making engravings on wood [n -s]"
+xylographers	"xylographer, one who practises xylography, the art of making engravings on wood [n]"
+xylographic	"relating to xylography, the art of making engravings on wood, also xylographical [adj]"
+xylographical	"relating to xylography, the art of making engravings on wood, also xylographic [adj]"
+xylographies	"xylography, the art of making engravings on wood, esp. for printing [n]"
+xylographing	"xylograph, to copy by xylograph [v]"
+xylographs	"xylograph, an engraving on wood, or the impression from such an engraving; a print by xylography [n]"
+xylography	"the art of making engravings on wood, esp. for printing [n xylographies]"
+xyloid	woody; ligneous [adj]
+xyloidin	"a substance resembling pyroxylin, obtained by the action of nitric acid on starch, also xyloidine [n -s]"
+xyloidine	"a substance resembling pyroxylin, obtained by the action of nitric acid on starch, also xyloidin [n -s]"
+xyloidines	"xyloidine, a substance resembling pyroxylin, obtained by the action of nitric acid on starch, also xyloidin [n]"
+xyloidins	"xyloidin, a substance resembling pyroxylin, obtained by the action of nitric acid on starch, also xyloidine [n]"
+xylol	"a flammable hydrocarbon, also xylene [n -s]"
+xylologies	"xylology, the study of the structure of wood [n]"
+xylology	the study of the structure of wood [n xylologies]
+xylols	"xylol, a flammable hydrocarbon, also xylene [n]"
+xyloma	a body which forms spurs internally in fungi [n xylomas or xylomata]
+xylomas	"xyloma, a body which forms spurs internally in fungi [n]"
+xylomata	"xyloma, a body which forms spurs internally in fungi [n]"
+xylometer	an instrument for measuring the specific gravity of wood [n -s]
+xylometers	"xylometer, an instrument for measuring the specific gravity of wood [n]"
+xylonic	pertaining to an acid obtained by oxidizing xylose [adj]
+xylonite	"a non-thermosetting plastic of the nitrocellulose type, also zylonite [n -s]"
+xylonites	"xylonite, a non-thermosetting plastic of the nitrocellulose type, also zylonite [n]"
+xylophagan	one of a tribe of beetles whose larvae bore or live in wood [n -s]
+xylophagans	"xylophagan, one of a tribe of beetles whose larvae bore or live in wood [n]"
+xylophage	"an insect larva, mollusc etc. that eats or bores into wood [n -s]"
+xylophages	"xylophage, an insect larva, mollusc etc. that eats or bores into wood [n]"
+xylophagous	wood-eating [adj]
+xylophilous	fond of wood; living in or on wood [adj]
+xylophone	"a musical percussion instrument consisting of a graduated series of wooden bars, usually played by striking with two small round-ended hammers [n -s]"
+xylophones	"xylophone, a musical percussion instrument consisting of a graduated series of wooden bars, usually played by striking with two small round-ended hammers [n]"
+xylophonic	relating to a xylophone [adj]
+xylophonist	one who plays the xylophone [n -s]
+xylophonists	"xylophonist, one who plays the xylophone [n]"
+xylopyrography	engraving designs on wood with hot poker [n]
+xylorimba	a combination of xylophone and marimba [n -s]
+xylorimbas	"xylorimba, a combination of xylophone and marimba [n]"
+xylose	"a pentose (aldose) which occurs widely in plants, esp. as a constituent of xylan [n -s]"
+xyloses	"xylose, a pentose (aldose) which occurs widely in plants, esp. as a constituent of xylan [n]"
+xylotomies	"xylotomy, the preparation of wood for microscopic examination [n]"
+xylotomist	"one who carries out xylotomy, the preparation of sections of wood for microscopic examination [n -s]"
+xylotomists	"xylotomist, one who carries out xylotomy, the preparation of sections of wood for microscopic examination [n]"
+xylotomous	"of insects, wood-cutting or wood-boring [adj]"
+xylotomy	the preparation of wood for microscopic examination [n xylotomies]
+xylotypographic	"relating to, or printed from, wooden type [adj]"
+xylotypography	printing from wooden type [n]
+xylyl	a chemical compound found in coal-tar [n -s]
+xylyls	"xylyl, a chemical compound found in coal-tar [n]"
+xyridaceous	"belonging to the xyridaceae, a genus of sedge-like flowers [adj]"
+xyst	"(historical) a long covered portico or court used by ancient greek athletes for exercises, also xystos, xystus [n -s]"
+xyster	a surgeon's instrument for scraping bones [n -s]
+xysters	"xyster, a surgeon's instrument for scraping bones [n]"
+xysti	"xystus, (historical) a long covered portico or court used by ancient greek athletes for exercises, also xyst, xystos [n]"
+xystoi	"xystos, (greek) a long covered portico or court used by ancient greek athletes for exercises, also xyst, xystus [n]"
+xystos	"(greek) a long covered portico or court used by ancient greek athletes for exercises, also xyst, xystus [n xystoi]"
+xysts	"xyst, (historical) a long covered portico or court used by ancient greek athletes for exercises, also xystos, xystus [n]"
+xystus	"(historical) a long covered portico or court used by ancient greek athletes for exercises, also xyst, xystos [n xysti]"
